@@ -2,3 +2,4 @@
 - `parcel index.html`
 - `npm i faker`
 - `npm install @types/faker`
+- `npm install @types/googlemaps`
