@@ -1,2 +1,4 @@
 - `npm install -g parcel-bundler`
 - `parcel index.html`
+- `npm i faker`
+- `npm install @types/faker`
