@@ -9,3 +9,5 @@ const user = new User();
 console.log(company);
 console.log(user);
 console.log(customMap);
+
+customMap.addUserMarker(user);
